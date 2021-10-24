@@ -1,1 +1,1 @@
-Spring recipe app
+Spring5 recipe app
